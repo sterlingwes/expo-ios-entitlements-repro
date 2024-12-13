@@ -8,9 +8,10 @@
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
+    "platforms": ["ios"],
     "ios": {
       "appleTeamId": "P5RM958T63",
-      "supportsTablet": true,
+      "supportsTablet": false,
       "associatedDomains": ["applinks:sterlingwes.github.io"],
       "bundleIdentifier": "github.sterlingwes.expo-ios-entitlements-repro"
     },
