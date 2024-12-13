@@ -5,7 +5,7 @@
       {
         "appID": "P5RM958T63.github.sterlingwes.expo-ios-entitlements-repro",
         "paths": [
-          "/*"
+          "/expo-ios-entitlements-repro/*"
         ]
       }
     ]
